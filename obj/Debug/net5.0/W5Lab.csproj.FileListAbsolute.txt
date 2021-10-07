@@ -184,3 +184,8 @@ C:\COMP4976\W5Lab\obj\Debug\net5.0\Razor\Views\Provinces\Delete.cshtml.g.cs
 C:\COMP4976\W5Lab\obj\Debug\net5.0\Razor\Views\Provinces\Details.cshtml.g.cs
 C:\COMP4976\W5Lab\obj\Debug\net5.0\Razor\Views\Provinces\Edit.cshtml.g.cs
 C:\COMP4976\W5Lab\obj\Debug\net5.0\Razor\Views\Provinces\Index.cshtml.g.cs
+C:\COMP4976\W5Lab\obj\Debug\net5.0\Razor\Views\Cities\Create.cshtml.g.cs
+C:\COMP4976\W5Lab\obj\Debug\net5.0\Razor\Views\Cities\Delete.cshtml.g.cs
+C:\COMP4976\W5Lab\obj\Debug\net5.0\Razor\Views\Cities\Details.cshtml.g.cs
+C:\COMP4976\W5Lab\obj\Debug\net5.0\Razor\Views\Cities\Edit.cshtml.g.cs
+C:\COMP4976\W5Lab\obj\Debug\net5.0\Razor\Views\Cities\Index.cshtml.g.cs
