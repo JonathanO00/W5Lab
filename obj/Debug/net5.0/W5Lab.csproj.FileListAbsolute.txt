@@ -189,3 +189,6 @@ C:\COMP4976\W5Lab\obj\Debug\net5.0\Razor\Views\Cities\Delete.cshtml.g.cs
 C:\COMP4976\W5Lab\obj\Debug\net5.0\Razor\Views\Cities\Details.cshtml.g.cs
 C:\COMP4976\W5Lab\obj\Debug\net5.0\Razor\Views\Cities\Edit.cshtml.g.cs
 C:\COMP4976\W5Lab\obj\Debug\net5.0\Razor\Views\Cities\Index.cshtml.g.cs
+C:\COMP4976\W5Lab\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\COMP4976\W5Lab\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\COMP4976\W5Lab\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
